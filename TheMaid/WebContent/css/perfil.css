@@ -1,0 +1,226 @@
+
+.content_log{
+	z-index: 100!important;
+}
+.img_blank_log{
+	z-index: 20!important;
+}
+.body_log{	
+	z-index: 1!important;
+	min-width: 50px;
+}
+.icouser_logo{
+    padding: 10px;
+	margin-top:1px;
+	margin-bottom:1px;
+	width: 60px;
+	height: auto;
+background: #597899;
+border-top-left-radius: 	10px;
+border-bottom-left-radius:	10px;
+}
+.input_log{
+    margin-left: 3px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+}
+.p_log{
+	display: flex;
+}
+.content_log{z-index: 1000;
+	height: 100%; min-width: auto overflow:hidden;
+}
+
+.content_credential_log{
+	z-index: 100!important;
+border-top-left-radius: 	15px;
+border-bottom-left-radius:	15px;
+    border-top-right-radius:15px;
+    border-bottom-right-radius:15px;
+	position: absolute; 
+	background-color: #dededebf; 
+	top: 90px;
+}
+.content_credential_log{
+	width: 450px; 
+	height: 700px;
+	left: 15%;
+}
+.img_log{
+	margin-top: 50px; 
+	width: 350px;
+	height: auto
+}
+.body_log{	
+	height: 100%;width: auto;min-width: 473px;
+    min-height: 950px;
+	filter: blur(4px);
+	background: linear-gradient(
+      rgba(7, 64, 126, 0.6),
+      rgba(7, 64, 126, 0.6)   
+    ),
+ url(../galeria/wall-2.jpg) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background-position: top;
+    height: 100%;
+    width: 100% ;
+    text-align: center;
+}
+
+
+
+
+.login {
+  margin: 16px auto;
+  font-size: 16px;
+}
+
+/* Reset top and bottom margins from certain elements */
+.login-header,
+.login p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.login-container {
+  padding: 12px;
+}
+
+/* Every row inside .login-container is defined with p tags */
+.login p {
+  padding: 12px
+}
+
+.login input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+.login input[type="email"],
+.login input[type="password"] {  
+    color: #fff!important;
+    background: #597899;
+}
+
+/* Text fields' focus effect */
+.login input[type="submit"] {
+  background: #28d;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+.login input[type="email"]:hover,.login input[type="password"]:hover{
+  background: #59789963;
+}
+
+
+.login input[type="email"]:focus,
+.login input[type="password"]:focus{
+  border-color: #888,background:#fff ;
+}
+
+
+.login input[type="submit"]:hover {
+  background: #205786;
+}
+/* Buttons' focus effect */
+.login input[type="submit"]:focus {
+  border-color: #05a;
+}
+
+.img_blank_log{
+	height: 150px;
+	width: auto;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+::-webkit-input-placeholder { color: #fff; } 
+
+:-moz-placeholder { /* Firefox 18- */ color: #fff; } 
+
+::-moz-placeholder { /* Firefox 19+ */ color: #fff; } 
+
+:-ms-input-placeholder { color: #fff; }
+
+@media(max-height:900px) {
+  .content_credential_log{
+	width: 400px; 
+	height: 700px;
+	left: 15%;
+}.img_log{
+	margin-top: 10px; 
+	width: 250px;
+	height: auto
+}
+}
+@media(max-height:800px) {
+  .content_credential_log{
+	width: 350px; 
+	height: 700px;
+	left: 15%;
+}
+@media(max-height:600px) {
+  .content_credential_log{
+	  top: 100px;
+}
+	.img_log{
+	margin-top: 10px; 
+	width: 250px;
+	height: auto
+    min-height: 600px;
+}
+}
+@media(max-width:600px) {
+  .content_credential_log{
+	left: 15%;
+	width: 300px; 
+	height: 300px;
+}}
+	
+	
+	@media(max-height:700px) {
+	.body_log{    min-height: 700px; min-width: 200px;}
+	.content_credential_log{top: 180px}}
+	@media(max-height:650px) {
+	.body_log{    min-height: 650px;}}
+	@media(max-height:600px) {
+	.body_log{    min-height: 600px;}}
+	@media(max-height:550px) {
+	.body_log{    min-height: 550px;}}
+	@media(max-height:500px) {
+	.body_log{    min-height: 500px;}}
+	
+	
+	
+/*body{overflow:hidden;min-width: 500px;}*/
+	
+	
+	
+	
+	
+	.{
+	}
+	
+	.content_credential_log2{
+	left: 50%!important;
+	}
+	
+	.segundologin{
+	
+	
+	
+	}
+	

@@ -1,0 +1,32 @@
+.ht-banner{
+	max-height: 500px;
+}
+.banner01{			
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+		}
+		.banner02{
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;			
+		}
+		.banner03{
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;				
+		}
+		.banner04{
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;				
+		}
+
